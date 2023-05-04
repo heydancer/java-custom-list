@@ -1,4 +1,4 @@
-package com.heydancer;
+package com.heydancer.list;
 
 public interface CustomList<T> {
     void add(int index, T e);
